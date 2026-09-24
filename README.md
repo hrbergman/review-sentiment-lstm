@@ -8,6 +8,6 @@ I trained a neural network to classify customer reviews as positive or negative,
 - Tested a heuristic 9-dimension embedding, found it underperformed, and switched to frozen 100-dimension pretrained GloVe embeddings
 - Built a bidirectional LSTM with dropout and early stopping, reaching about 80% test accuracy with closely aligned training and validation performance
 
-[Documentation](https://github.com/hrbergman/postgresql-customer-services-query/blob/main/postgresql-customer-services-query/data-acquisition-documentation.pdf)
+[Documentation](https://github.com/hrbergman/review-sentiment-lstm/blob/main/review-sentiment-lstm/sentiment-analysis-lstm-documentation.pdf)
 | 
 [Video Presentation](https://youtu.be/jKOE0cG68rc)
